@@ -1,0 +1,4 @@
+train: C:\Users\macie\Downloads\Taller_2_Maciel-Ripetti\imagen\data\train
+val: C:\Users\macie\Downloads\Taller_2_Maciel-Ripetti\imagen\data\val
+nc: 1
+names: ["Golden"]
